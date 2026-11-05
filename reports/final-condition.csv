@@ -1,0 +1,6 @@
+artifact_id,title,material,final_condition,final_observed_at,final_observer,valid_observation_count
+AR-017,Tide Chart,Paper,STABLE,2082-06-15T16:00:00Z,Noel,2
+AR-089,Loom Weight,Stone,STABLE,2082-06-15T11:30:00Z,Inez,1
+AR-104,Amber Bowl,Ceramics,WATCH,2082-06-15T15:20:00Z,Noel,2
+AR-222,Iron Key,Metal,WATCH,2082-06-15T10:40:00Z,Theo,2
+AR-311,Reed Basket,Fiber,CRITICAL,2082-06-15T12:15:00Z,Theo,1
